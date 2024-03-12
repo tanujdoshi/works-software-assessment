@@ -25,7 +25,7 @@ After selecting your path and familiarizing yourself with the tasks, it's time t
 
 4. **Feedback and Questions**: Should you encounter any difficulties or have questions during the assessment, feel free to reach out to us:
    - Vansh Sood: vanshsood@dal.ca
-   - Tobi Onubido: toni.onibudo@dal.ca
+   - Tobi Onibudo: tobi.onibudo@dal.ca
 
 ## Support
 
