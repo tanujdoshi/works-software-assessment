@@ -2,21 +2,34 @@
   "name": "works-software-assessment",
   "version": "1.0.0",
   "description": "## Project Overview",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node build/index.js",
     "dev": "nodemon src/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.25",
+    "@types/supertest": "^6.0.2",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.6",
+    "concurrently": "^8.2.2",
     "typescript": "^5.4.2"
   },
   "dependencies": {
+    "@types/jest": "^29.5.12",
     "dotenv": "^16.0.0",
     "express": "^4.18.3",
-    "nodemon": "^3.1.0"
+    "express-validator": "^7.0.1",
+    "jest": "^29.7.0",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.1.0",
+    "supertest": "^6.3.4",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
+    "ts-jest": "^29.1.2"
   }
 }
