@@ -6,4 +6,5 @@ export const MESSAGES = {
   COMMON_ERROR: "Internal server error",
   NOTE_NOT_AVAILABLE: "note with respected id is not available",
   API_NOT_FOUND: "404 API not available!",
+  INVALID_MONGO_ID: "Provided id is not valid",
 };

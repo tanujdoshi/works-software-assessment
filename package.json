@@ -2,7 +2,7 @@
   "name": "works-software-assessment",
   "version": "1.0.0",
   "description": "## Project Overview",
-  "main": "app.js",
+  "main": "index.ts",
   "scripts": {
     "start": "node build/index.js",
     "dev": "nodemon src/index.ts",
